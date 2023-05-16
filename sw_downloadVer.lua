@@ -1,1 +1,1 @@
-return "game version currently on server 7.2.6"
+return "7.2.6"
