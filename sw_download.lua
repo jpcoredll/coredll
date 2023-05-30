@@ -1,1 +1,1 @@
-return "https://onedrive.live.com/download?cid=CA2D6D2DE36EB453&resid=CA2D6D2DE36EB453%211466&authkey=AIxOcUKCtUq0E1Y"
+return "https://www.dropbox.com/s/q4jmghhew4qy3jj/com.com2us.smon.normal.freefull.amazon.global.android.common.apk?dl=1"
