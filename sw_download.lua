@@ -1,1 +1,1 @@
-return "https://www.dropbox.com/scl/fi/6ag2l9v6452zwzbemf002/com.com2us.smon.normal.freefull.amazon.global.android.common.apk?rlkey=xf0n9a4kotfr546o5my6jv138&dl=1"
+return "https://www.dropbox.com/scl/fi/t0u6bpebcubdbih378vnq/com.com2us.smon.normal.freefull.amazon.global.android.common.apk?rlkey=04jz0xyvibbj7o9bvo1si45ss&dl=1"
